@@ -9,7 +9,7 @@ import seaborn as sns
 sns.set(style='dark')
 
 # load data
-df = pd.read_csv('clean.csv')
+df = pd.read_csv('https://github.com/koenwahyoedi/submission_dicoding/blob/main/clean.csv')
 
 # Sidebar
 with st.sidebar:
